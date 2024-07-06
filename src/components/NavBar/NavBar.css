@@ -1,0 +1,19 @@
+.nav-bar {
+	background-color: rgb(199, 199, 199);
+}
+.nav-list {
+	gap: 10px;
+}
+
+.nav-link {
+	text-transform: uppercase;
+	font-size: 1rem;
+	color: black;
+	font-weight: 700;
+	transition: 0.8s;
+}
+
+.nav-link:hover {
+	color: orange;
+	font-weight: 600;
+}
